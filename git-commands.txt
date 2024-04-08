@@ -1,0 +1,30 @@
+cd Desktop
+cd gitDemo
+git init
+touch first.txt
+git status
+git add .
+git commit -m "comment...."
+git log
+git log --oneline
+git diff
+git diff --staged
+git rm file-name
+git reset
+git show
+git show [commit id]
+
+version control :
+		git chechout [commit id] [file name]
+
+git remote add origin https://github.com/Resource-Git/git-learning.git
+git push -u origin main
+
+
+
+git branch   ==  to show how many branch are there
+git branch branchA    ==  create a branch
+git branch branchB
+git checkout branchA   == switch another branch
+
+git marge branchA   ==> 
