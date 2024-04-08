@@ -28,3 +28,5 @@ git branch branchB
 git checkout branchA   == switch another branch
 
 git marge branchA   ==> 
+
+Fork And Pull Request  ==>
