@@ -21,7 +21,7 @@ git remote add origin https://github.com/Resource-Git/git-learning.git
 git push -u origin main
 
 
-
+branch ==> is for testing code & if ok then marge to main code
 git branch   ==  to show how many branch are there
 git branch branchA    ==  create a branch
 git branch branchB
@@ -29,4 +29,4 @@ git checkout branchA   == switch another branch
 
 git marge branchA   ==> 
 
-Fork And Pull Request  ==>
+Fork And Pull Request  ==>fork is for someone else's repository's code can be able to change or added & pull is for if changed or added code is workable then request for add this code to their repository
